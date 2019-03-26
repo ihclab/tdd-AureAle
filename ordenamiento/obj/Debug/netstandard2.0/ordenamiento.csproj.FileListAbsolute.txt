@@ -1,0 +1,9 @@
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\bin\Debug\netstandard2.0\ordenamiento.deps.json
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\bin\Debug\netstandard2.0\ordenamiento.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\bin\Debug\netstandard2.0\ordenamiento.pdb
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.csprojAssemblyReference.cache
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.AssemblyInfoInputs.cache
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.AssemblyInfo.cs
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento\obj\Debug\netstandard2.0\ordenamiento.pdb

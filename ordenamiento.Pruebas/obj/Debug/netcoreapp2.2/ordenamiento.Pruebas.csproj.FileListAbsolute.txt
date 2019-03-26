@@ -1,0 +1,17 @@
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.Pruebas.deps.json
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.Pruebas.runtimeconfig.json
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.Pruebas.runtimeconfig.dev.json
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.Pruebas.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.Pruebas.pdb
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pdb
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.csprojAssemblyReference.cache
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.AssemblyInfoInputs.cache
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.AssemblyInfo.cs
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.csproj.CopyComplete
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.dll
+C:\Users\gomez\Desktop\tdd-AureAle\ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\ordenamiento.Pruebas.pdb
