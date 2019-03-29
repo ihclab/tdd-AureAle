@@ -5844,11 +5844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento.Pruebas\\ordenamiento.Pruebas.csproj",
+      "projectUniqueName": "C:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento.Pruebas\\ordenamiento.Pruebas.csproj",
       "projectName": "ordenamiento.Pruebas",
-      "projectPath": "c:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento.Pruebas\\ordenamiento.Pruebas.csproj",
+      "projectPath": "C:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento.Pruebas\\ordenamiento.Pruebas.csproj",
       "packagesPath": "C:\\Users\\gomez\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento.Pruebas\\obj\\",
+      "outputPath": "C:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento.Pruebas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5865,8 +5865,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento\\ordenamiento.csproj": {
-              "projectPath": "c:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento\\ordenamiento.csproj"
+            "C:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento\\ordenamiento.csproj": {
+              "projectPath": "C:\\Users\\gomez\\Desktop\\tdd-AureAle\\ordenamiento\\ordenamiento.csproj"
             }
           }
         }
